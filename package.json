@@ -10,6 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "bookquotes": "^1.1.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.5",
+    "nodemon": "^2.0.14",
+    "popular-movie-quotes": "^1.2.4",
+    "quotes": "^0.2.0",
+    "smartquotes": "^2.3.2",
+    "starwars": "^1.0.1"
   }
 }
